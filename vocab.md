@@ -12,4 +12,5 @@
 * __Database__: the technology that holds our data to be dynamically displayed on the page by our app.
 * __Heroku__: a cloud based service that we can use to host web apps.
 * __Open Source__: a type of technology where anyone can view or request a change to the software.
-* __CLoud9: 
+* __IDE__: Integrated Development Environment, a one stop shop for updating code, running your webserver and interacting with the commandline.
+* __Cloud9__: our cloud-based IDE of choice for this course. 
