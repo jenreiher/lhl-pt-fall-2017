@@ -1,4 +1,4 @@
-Word we learned so far:
+*Word we learned so far:*
 
 * __Stack__: the different technologies and languages to a working web application. Different companies have different "stacks".
 * __Git__: a type of version control that allows us to track changes and go back to previous versions.
