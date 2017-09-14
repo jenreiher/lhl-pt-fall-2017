@@ -1,4 +1,4 @@
-![alt text](https://scontent-sea1-1.xx.fbcdn.net/v/t1.0-9/10418905_10152673076600733_7716940648397051147_n.jpg?oh=7b8671458300b8b151a0179b83b91a3a&oe=5A5167E7)
+![alt text](https://scontent-sea1-1.xx.fbcdn.net/v/t1.0-9/10418905_10152673076600733_7716940648397051147_n.jpg?oh=7b8671458300b8b151a0179b83b91a3a&oe=5A5167E7 | width=300)
 # Patrick Simonian
 
 * __Favourite food__: Pizzaaaa
