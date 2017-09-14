@@ -1,5 +1,5 @@
-#Jen Reiher
 ![alt text](../images/jen.jpg)
+# Jen Reiher
 
 __Favourite food__: Tuna sashimi
 __Experience with technology:__ over a year into professional nerding, life-long enthusiast
