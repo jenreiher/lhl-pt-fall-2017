@@ -1,4 +1,4 @@
-![alt text](../images/jen.jpg)
+![alt text](http://ladieslearningcode.com/wp-content/uploads/2017/07/jen.jpg)
 # Jen Reiher
 
 * __Favourite food__: Tuna sashimi
