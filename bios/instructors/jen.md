@@ -1,3 +1,7 @@
-W1D1
-* [Slides](https://docs.google.com/presentation/d/1mWU6LHb0tyHSunWr7ujB0h9idokhi78Wx6EcmYtqp8g/edit)
-* [Lecture](https://www.dropbox.com/s/v09iz8kn5rz2u3b/ptwebvic-w1d1.mov?dl=0)
+#Jen Reiher
+![alt text](../images/jen.jpg)
+
+__Favourite food__: Tuna sashimi
+__Experience with technology:__ over a year into professional nerding, life-long enthusiast
+__Hometown__: Victoria! Born & raised
+__Most embarassing song on my playlist__: Imagine Dragons covering Taylor Swift's Blank Space
