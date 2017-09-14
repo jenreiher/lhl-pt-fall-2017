@@ -14,3 +14,40 @@
 * __Open Source__: a type of technology where anyone can view or request a change to the software.
 * __IDE__: Integrated Development Environment, a one stop shop for updating code, running your webserver and interacting with the commandline.
 * __Cloud9__: our cloud-based IDE of choice for this course. 
+
+## W1D2
+* ____: 
+
+--------
+
+*Future Classes*
+
+## W2D1
+* ____: 
+
+## W2D2
+* ____: 
+
+## W3D1
+* ____: 
+
+## W3D2
+* ____: 
+
+## W4D1
+* ____: 
+
+## W4D2
+* ____: 
+
+## W5D1
+* ____: 
+
+## W5D2
+* ____: 
+
+## W6D1
+* ____: 
+
+## W6D2
+* ____: 
