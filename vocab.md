@@ -34,7 +34,7 @@
 * __Selectors__: How we tell css what we want to style, e.g. p, h1, .class, #id etc.
 * __Property__: How we tell css what we want to update for that selector.
 * __Value__: How we tell css what we want to update that property to.
-* __Box model__: The invisible [see this link for the perfect metaphor for the box model!](https://medium.freecodecamp.org/css-box-model-explained-by-living-in-a-boring-suburban-neighborhood-9a9e692773c1?gi=8dfe07df3608)
+* __Box model__: The way that css thinks about each element on the page. [see this link for the perfect metaphor for the box model!](https://medium.freecodecamp.org/css-box-model-explained-by-living-in-a-boring-suburban-neighborhood-9a9e692773c1?gi=8dfe07df3608)
 * __Padding__: The space within an element.
 * __Margin__: The space betweeen an element and other things.
 * __Stylesheet__: A collection of css that we can add to the `head` section of our page to apply the style rules within it.
