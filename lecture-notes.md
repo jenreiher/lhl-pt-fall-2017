@@ -9,3 +9,4 @@ W1D2
 ---
 W2D1
 * [Slides](https://docs.google.com/presentation/d/1WbGzQHEzyG_QZ3VnVmXiSva0CVm360gRbjWMO0pDRGw/edit?usp=sharing)
+* [Pirate Example](https://gist.github.com/jenreiher/c035fc5af0b36c7b9abb9e58850f1981)
