@@ -12,3 +12,4 @@
 * [css-tricks.com](css-tricks.com)
 * [The Clear Fix](http://learnlayout.com/clearfix.html)
 * [Bootstrap CSS Framework](https://getbootstrap.com/docs/3.3/getting-started/)
+* [Transition Animation Easing Cheat Sheet](http://easings.net/)
