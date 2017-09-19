@@ -9,6 +9,6 @@
 * https://www.w3schools.com/html/html_intro.asp
 
 ## CSS Resources
-* css-tricks.com
+* [css-tricks.com](css-tricks.com)
 * [The Clear Fix](http://learnlayout.com/clearfix.html)
 * [Bootstrap CSS Framework](https://getbootstrap.com/docs/3.3/getting-started/)
