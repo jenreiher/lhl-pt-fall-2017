@@ -7,5 +7,5 @@ W1D2
 * [Lecture](https://drive.google.com/open?id=0BxUM5SEUXAAuMEVuaEgxS2ZZOUE)
 * [Github Demo](https://drive.google.com/open?id=0BxUM5SEUXAAuVHY1cm1jZzBsN0k)
 ---
-W1D3
+W2D1
 * [Slides](https://docs.google.com/presentation/d/1WbGzQHEzyG_QZ3VnVmXiSva0CVm360gRbjWMO0pDRGw/edit?usp=sharing)
