@@ -29,12 +29,21 @@
 * __Span tag__: a way to divide things on the page. These flow within the content on the page. 
 * __Semantic tags__: we should try to use tag names to describe things so that the code is more human readable, and other technologies have an easier time interacting with your page in a meaningful way.  
 
+## W2D1
+* __CSS__: Cascading style sheets, or the style language of the web.
+* __Selectors__: How we tell css what we want to style, e.g. p, h1, .class, #id etc.
+* __Property__: How we tell css what we want to update for that selector.
+* __Value__: How we tell css what we want to update that property to.
+* __Box model__: The invisible (see this link for the perfect metaphor for the box model!)[https://medium.freecodecamp.org/css-box-model-explained-by-living-in-a-boring-suburban-neighborhood-9a9e692773c1?gi=8dfe07df3608]
+* __Padding__: The space within an element.
+* __Margin__: The space betweeen an element and other things.
+* __Stylesheet__: A collection of css that we can add to the `head` section of our page to apply the style rules within it.
+* __Class tag__: A way of linking a style rule to a piece of html.
+* __Id tag__: A unique way of linking a style rule to a piece of html. Useful to make sure that you aren't accidentally applying the same rule where you didn't intend to.
+
 --------
 
 *Future Classes*
-
-## W2D1
-* ____: 
 
 ## W2D2
 * ____: 
