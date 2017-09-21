@@ -10,3 +10,7 @@ W1D2
 W2D1
 * [Slides](https://docs.google.com/presentation/d/1WbGzQHEzyG_QZ3VnVmXiSva0CVm360gRbjWMO0pDRGw/edit?usp=sharing)
 * [Pirate Example](https://gist.github.com/jenreiher/c035fc5af0b36c7b9abb9e58850f1981)
+* [Lecture](https://drive.google.com/file/d/0BxUM5SEUXAAuYm0wRmVfNGlTVG8/view?usp=sharing)
+---
+W2D2
+* [Slides](https://docs.google.com/presentation/d/1UCevu3iz6iDO78C2T01wTQqO8g2xMiN2CYKdz10RJto/edit)
