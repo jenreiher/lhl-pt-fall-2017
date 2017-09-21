@@ -15,3 +15,4 @@ W2D1
 W2D2
 * [Slides](https://docs.google.com/presentation/d/1UCevu3iz6iDO78C2T01wTQqO8g2xMiN2CYKdz10RJto/edit)
 * [Lecture](https://drive.google.com/file/d/0BxUM5SEUXAAuV0VIYTVTemR3T3M/view?usp=sharing)
+* [Ruby Practise](https://drive.google.com/file/d/0BxUM5SEUXAAub3BYM0F4d3pzaDA/view?usp=sharing)
