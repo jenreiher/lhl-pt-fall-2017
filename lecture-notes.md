@@ -19,3 +19,4 @@ W2D2
 ---
 W3D1
 * [Slides](https://docs.google.com/presentation/d/1RCiNElZY4V04FHuBjnJ_ULFpVnIlzXlbtL1v-G9j6-k/edit?usp=sharing)
+* [Lecture](https://drive.google.com/file/d/0BxUM5SEUXAAubV9kTFFCS2V0Q28/view?usp=sharing)
