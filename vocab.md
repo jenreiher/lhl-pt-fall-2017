@@ -66,16 +66,26 @@ g! E.g. "Hello, #{first_name} welcome to my fancy customized sentence!".
 * __<%= yield %>__: A special variable that will load in an erb file with "subcontent" into our base html page.
 * __Instance variable__: A way to let a variable's data be "seen" by the erb template by adding an `@` symbol in front of the variable name.
 * __Alligator tags__: the symbols we wrap our ruby code in within our html so it knows where the html stops and the ruby starts (and vice versa!). For ruby logic, it looks like this: `<% rubycode %>`, and for an individual piece of data we want to show on the page we use `<%= data %>`
-* __DRY__: Don't repeat yourself! One of the many reminders to ourselves not to re-type things if we don't have to, because we are ~~lazy~~ efficient
-* __View__: The shorthand term for our ERB file. It means "the thing the user _view_s".
+* __DRY__: Don't repeat yourself! One of the many reminders to ourselves not to re-type things if we don't have to, because we are ~~lazy~~ efficient.
+* __View__: The shorthand term for our ERB file. It means "the thing the user _views_".
 * __Actions__: Our list of things to "do" when a certain view is accessed, located in our actions.rb file and broken up into different `get '/something' do ... some code ... end` blocks
+
+## W3D2
+* __Database__: A way of storing our data in a way that persists.
+* __Persistence__: The idea that data will last beyond the user's time on the page - it's not just stored in the browser, it gets saved in a database for use later.
+* __Relational Database__: A way of joining different data sets (called tables) together. 
+* __ERD__: Entity relationship diagram - a standard way to visualize the way your database is set up.
+* __Primary key__: a unique row in your database.
+* __Foreign key__: The way to reference another table in a relational database.
+* __One to Many__: One of the types of relations in a relational database.
+* __Many to Many__: Another of the types of relations in a relational database.
+* __CRUD__: stands for "create", "read", "update" and "delete", the things that you can do when you interface with a database.
+* __ORM__: Object Relational Mapper - a way of translating between a coding language and database languages.
+* __Active Record__: The language we will use as our ORM that lets Ruby talk to SQL.
 
 --------
 
 *Future Classes*
-
-## W3D2
-* ____: 
 
 ## W4D1
 * ____: 
