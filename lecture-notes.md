@@ -19,4 +19,9 @@ W2D2
 ---
 W3D1
 * [Slides](https://docs.google.com/presentation/d/1RCiNElZY4V04FHuBjnJ_ULFpVnIlzXlbtL1v-G9j6-k/edit?usp=sharing)
-* [Lecture](https://drive.google.com/file/d/0BxUM5SEUXAAubV9kTFFCS2V0Q28/view?usp=sharing)
+* [Lecture](https://drive.google.com/file/d/0BxUM5SEUXAAubV9kTFFCS2V0Q28/view?usp=sharing)   **no sounds sorry :(
+
+---
+W3D2
+* [Slides](https://docs.google.com/presentation/d/1TKy3WECFC8pPBKonw0psbncaIzjPcJzOQOWYUse7UO0/edit?usp=sharing)
+* Lecture coming up shortly
