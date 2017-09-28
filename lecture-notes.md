@@ -24,4 +24,4 @@ W3D1
 ---
 W3D2
 * [Slides](https://docs.google.com/presentation/d/1TKy3WECFC8pPBKonw0psbncaIzjPcJzOQOWYUse7UO0/edit?usp=sharing)
-* Lecture coming up shortly
+* [Lecture](https://drive.google.com/file/d/0BxUM5SEUXAAuMXM0R05oaVdreFE/view?usp=sharing)
