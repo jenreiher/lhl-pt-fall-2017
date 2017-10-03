@@ -83,12 +83,18 @@ g! E.g. "Hello, #{first_name} welcome to my fancy customized sentence!".
 * __ORM__: Object Relational Mapper - a way of translating between a coding language and database languages.
 * __Active Record__: The language we will use as our ORM that lets Ruby talk to SQL.
 
+## W4D1
+* __Query__: The word to describe how to retrieve specific data from a database.
+* __Associations__: How we describe relationships between types of data in our database.
+* __Class__: The object-oriented way to create objects that has access to methods and contain data.
+* __Inheritance__: The way we allow our classes to have access to the methods of other Classes... without having to retype it all.
+* __Instance method__: A method that lives within a class. Each "instance" of that class (aka an object) can "call" (use) that method without impacting the way other objects behave.
+* __Validations__: How we check that the data being entered into the database for each class meets specific criteria, so that it's nice and clean and tidy in our database.
+
 --------
 
 *Future Classes*
 
-## W4D1
-* ____: 
 
 ## W4D2
 * ____: 
