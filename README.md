@@ -21,3 +21,6 @@
 * [Ruby Naming Conventions](https://github.com/airbnb/ruby#naming)
 * [Ruby Method Conventions](https://github.com/airbnb/ruby#methods)
 * [Intro to ERB Templating](https://codingbee.net/tutorials/ruby/ruby-the-erb-templating-system)
+
+## Active Record Resources
+* [Active Record Intro](http://guides.rubyonrails.org/active_record_basics.html)
