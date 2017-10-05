@@ -34,3 +34,4 @@ W4D1
 ---
 W4D1
 * [Slides](https://docs.google.com/presentation/d/18gCwhowB3moeRRNgdg_RhLz7vbmnaxRBBWmx8ZK1Tts/edit?usp=sharing)
+* [Lecture](https://drive.google.com/open?id=0BxUM5SEUXAAuXzU1UkdPdWlDckk)
