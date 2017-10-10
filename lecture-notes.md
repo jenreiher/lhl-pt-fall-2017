@@ -32,6 +32,11 @@ W4D1
 * [Lecture](https://drive.google.com/file/d/0B-LChpStrnjvM0trM3RoMktPazA/view?usp=sharing)
 
 ---
-W4D1
+W4D2
 * [Slides](https://docs.google.com/presentation/d/18gCwhowB3moeRRNgdg_RhLz7vbmnaxRBBWmx8ZK1Tts/edit?usp=sharing)
 * [Lecture](https://drive.google.com/open?id=0BxUM5SEUXAAuXzU1UkdPdWlDckk)
+
+___
+W5D1
+* [Slides](https://docs.google.com/presentation/d/1CKmmHiKLe6sZkqOrmBj788aflXLHBHUsNyWWOHXY4Do/edit?usp=sharing)
+* [Lecture]
