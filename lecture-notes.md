@@ -44,3 +44,4 @@ W5D1
 ___
 W5D2
 * [Slides](https://docs.google.com/presentation/d/1FCoiLbKrZdLvNZGEgWtPMcwHV3pachBRcgNUL3JLzJQ/edit#slide=id.g712253c87_0_4)
+* [Lecture](https://drive.google.com/file/d/0BxUM5SEUXAAuempCOXBVNnFDcTQ/view?usp=sharing)
