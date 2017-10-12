@@ -40,3 +40,7 @@ ___
 W5D1
 * [Slides](https://docs.google.com/presentation/d/1CKmmHiKLe6sZkqOrmBj788aflXLHBHUsNyWWOHXY4Do/edit?usp=sharing)
 * [Lecture](https://drive.google.com/open?id=0BxUM5SEUXAAuZHJ3YWpYd3g2ZFE)
+
+___
+W5D2
+* [Slides](https://docs.google.com/presentation/d/1FCoiLbKrZdLvNZGEgWtPMcwHV3pachBRcgNUL3JLzJQ/edit#slide=id.g712253c87_0_4)
