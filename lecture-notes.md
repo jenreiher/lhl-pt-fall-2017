@@ -45,3 +45,8 @@ ___
 W5D2
 * [Slides](https://docs.google.com/presentation/d/1FCoiLbKrZdLvNZGEgWtPMcwHV3pachBRcgNUL3JLzJQ/edit#slide=id.g712253c87_0_4)
 * [Lecture](https://drive.google.com/file/d/0BxUM5SEUXAAuempCOXBVNnFDcTQ/view?usp=sharing)
+
+___
+W6D1
+* [Slides](https://docs.google.com/presentation/d/19NhxPAR23xp0AjIY4yCABYyiPHd4dqEUSLggFPFJjOM/edit?usp=sharing)
+* [Lecture](https://www.youtube.com/watch?v=NE0gg0N_oX8)
