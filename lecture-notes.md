@@ -50,3 +50,9 @@ ___
 W6D1
 * [Slides](https://docs.google.com/presentation/d/19NhxPAR23xp0AjIY4yCABYyiPHd4dqEUSLggFPFJjOM/edit?usp=sharing)
 * [Lecture](https://www.youtube.com/watch?v=NE0gg0N_oX8)
+
+
+___
+FINAL DAY .. <(^.&<)  <-- pirate kirby
+ * [Heroku Tutorial](https://youtu.be/VmE2tgXJ00w)
+ 
