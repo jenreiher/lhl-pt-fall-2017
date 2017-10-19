@@ -55,4 +55,4 @@ W6D1
 ___
 FINAL DAY .. <(^.&<)  <-- pirate kirby
  * [Heroku Tutorial](https://youtu.be/VmE2tgXJ00w)
- 
+ * [Lecture](https://youtu.be/1Qv-30utn64)
